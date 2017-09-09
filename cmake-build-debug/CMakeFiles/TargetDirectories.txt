@@ -1,0 +1,3 @@
+C:/Users/deimi/CLionProjects/SimulacionFormasOpenGL/cmake-build-debug/CMakeFiles/SimulacionFormasOpenGL.dir
+C:/Users/deimi/CLionProjects/SimulacionFormasOpenGL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deimi/CLionProjects/SimulacionFormasOpenGL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
